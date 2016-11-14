@@ -1,0 +1,9 @@
+{
+	"compilerOptions": {
+		"allowJs": true,
+		"module": "commonjs",
+		"removeComments": true,
+		"target": "ES5",
+		"jsx": "preserve"
+	}
+}
