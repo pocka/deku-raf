@@ -1,5 +1,7 @@
 # deku-raf
 
+[![Build Status](https://travis-ci.org/pocka/deku-raf.svg?branch=master)](https://travis-ci.org/pocka/deku-raf)
+
 Force deku(v2) to use [requestAnimationFrame](https://developer.mozilla.org/en-US/docs/Web/API/window/requestAnimationFrame) (raf).
 
 
