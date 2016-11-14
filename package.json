@@ -1,33 +1,33 @@
 {
-	"name": "deku-raf",
-	"version": "1.0.0",
-	"description": "Force deku to use requestAnimationFrame(raf)",
-	"main": "index.js",
-	"scripts": {
-		"compile": "tsc ./index.ts",
-		"test": "tsc --noEmit ./deku-raf-test.ts"
-	},
-	"repository": {
-		"type": "git",
-		"url": "git+https://github.com/pocka/deku-raf.git"
-	},
-	"keywords": [
-		"deku",
-		"raf",
-		"requestAnimationFrame"
-	],
-	"author": "pocka",
-	"license": "MIT",
-	"bugs": {
-		"url": "https://github.com/pocka/deku-raf/issues"
-	},
-	"homepage": "https://github.com/pocka/deku-raf#readme",
-	"dependencies": {
-		"deku": "2.0.0-rc15 || 2.0.0-rc16"
-	},
-	"devDependencies": {
-		"@types/deku": "2.0.x",
-		"typescript": "2.x"
-	},
-	"typings": "./index.ts"
+  "name": "deku-raf",
+  "version": "1.0.1",
+  "description": "Force deku to use requestAnimationFrame(raf)",
+  "main": "index.js",
+  "scripts": {
+    "compile": "tsc ./index.ts",
+    "test": "tsc --noEmit ./deku-raf-test.ts"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/pocka/deku-raf.git"
+  },
+  "keywords": [
+    "deku",
+    "raf",
+    "requestAnimationFrame"
+  ],
+  "author": "pocka",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/pocka/deku-raf/issues"
+  },
+  "homepage": "https://github.com/pocka/deku-raf#readme",
+  "dependencies": {
+    "deku": "2.0.0-rc15 || 2.0.0-rc16"
+  },
+  "devDependencies": {
+    "@types/deku": "2.0.x",
+    "typescript": "2.x"
+  },
+  "typings": "./index.ts"
 }
