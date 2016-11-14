@@ -23,10 +23,10 @@
 	},
 	"homepage": "https://github.com/pocka/deku-raf#readme",
 	"dependencies": {
-		"deku": "^2.0.x"
+		"deku": "2.0.x"
 	},
 	"devDependencies": {
-		"@types/deku": "^2.0.0",
-		"typescript": "^2.x"
+		"@types/deku": "2.0.x",
+		"typescript": "2.x"
 	}
 }
