@@ -28,5 +28,6 @@
 	"devDependencies": {
 		"@types/deku": "2.0.x",
 		"typescript": "2.x"
-	}
+	},
+	"typings": "./index.ts"
 }
