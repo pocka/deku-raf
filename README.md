@@ -19,7 +19,7 @@ import { element } from 'deku'
 
 import createApp from 'deku-raf'
 
-const Component = ({ props }) => <div></div>
+const Component = ({ props }) => <div class={ props.class }></div>
 
 const app = createApp(document.getElementById('view'))
 
